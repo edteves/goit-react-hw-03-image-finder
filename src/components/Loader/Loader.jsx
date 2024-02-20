@@ -10,7 +10,6 @@ export const Loader = () => {
         visible={true}
         ariaLabel="falling-circles-loading"
       />
-      )
     </div>
   );
 };
